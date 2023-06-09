@@ -1,8 +1,7 @@
 import os
 from tabulate import tabulate
 
-students = [
-]
+students = []
 
 def os_clear():
     system_operation = os.name
